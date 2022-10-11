@@ -1,0 +1,130 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  background-image: url(/Images/captain.jpeg);
+  background-size: cover;
+}
+
+/* Nav Bar Design */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: transparent;
+  color: #f88b69;
+ }
+ .nav-links a {
+  color: #f88b69;
+ }
+ /* Logo */
+ .logo {
+  font-size: 32px;
+ }
+ /* Nav Menu */
+ .menu {
+  display: flex;
+  gap: 1em;
+  font-size: 18px;
+ }
+ .menu li:hover {
+  background-color: transparent;
+  border-radius: 5px;
+  transition: 0.3s ease;
+ }
+ .menu li {
+  padding: 5px 14px;
+ }
+
+input[type=checkbox]{
+  display: none;
+ } 
+ /*hamburger menu*/
+ .hamburger {
+  display: none;
+  font-size: 24px;
+  user-select: none;
+ }
+ /* Media Queries for Nav*/
+ @media (max-width: 768px) {
+ .menu { 
+  display:none;
+  position: absolute;
+  background-color:transparent;
+  right: 0;
+  left: 0;
+  text-align: center;
+  padding: 16px 0;
+ }
+ .menu li:hover {
+  display: inline-block;
+  background-color: white;
+  transition: 0.3s ease;
+ }
+ .menu li + li {
+  margin-top: 12px;
+ }
+ input[type=checkbox]:checked ~ .menu{
+  display: block;
+ }
+ .hamburger {
+  display: block;
+ }
+}
+
+  /* Contact Form Design */
+
+.contact-form {
+  padding: 20px 20px;
+  width: 80%;
+  max-width: 500px;
+  background: transparent;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  border-radius: 15px;
+  text-align: center;
+  color: #f88b69;
+  font-family: Didot, serif;
+}
+
+.contact-form h2 {
+  font-weight: 800;
+}
+
+.contact-text {
+  border: 2px black;
+  margin: 12px 0;
+  border-radius: 10px;
+}
+
+.contact-text label {
+  display: block;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.contact-text input {
+  width: 100%;
+}
+
+/* Footer design */
+.footer {
+  position: absolute;
+  top: 90%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.footer a {
+  padding: 0px 20px;
+  margin: 10px;
+}

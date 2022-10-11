@@ -1,0 +1,74 @@
+[
+      {
+       "type": "Trafalgar Law Funko Pop", 
+       "price": "$15.99",
+       "description": "The super supernova, Trafalgar Law is now available in Pop form!",
+       "image": "Images/law.webp"
+      },
+      {
+        "type": "Benimaru (Figure)", 
+        "price": "$32.99",
+        "description": "The captain of the 7th Company is here to take home with you today!",
+        "image": "Images/benimaru.jpeg"
+       },
+       {
+        "type": "Boruto Funko Pop", 
+        "price": "$15.99",
+        "description": "The son of the legendary Hokage is finally ready to take the stage! Grab yours today!",
+        "image": "Images/boruto.webp"
+       },
+       {
+        "type": "Don Quixote Doflamingo (Figure)", 
+        "price": "$38.99",
+        "description": "The #1 villain of all time, jumps forward with his String-String fruit! Pre-order is now available!",
+        "image": "Images/doffy.jpeg"
+       },
+       {
+        "type": "Naruto (Hokage) Funko Pop", 
+        "price": "$15.99",
+        "description": "The legendary hokage appears before us, finally in Pop form!",
+        "image": "Images/naruto_hokage.webp"
+       },
+       {
+        "type": "Minato Funko Pop", 
+        "price": "$15.99",
+        "description": "Father of Naruto, Minato drops into the store for Pre-order!",
+        "image": "Images/minato.webp"
+       },
+       {
+        "type": "Rock Lee (Figure)", 
+        "price": "$28.99",
+        "description": "The most splendid ninja in all of the Hidden Leaf, check out Rock Lee today!",
+        "image": "Images/rocklee.jpeg"
+       },
+       {
+        "type": "Yuji Itadori Funko Pop", 
+        "price": "$30.99",
+        "description": "The cursed golden boy, the dark crusader, Yuji Itadori is finally in stock in his rare Pop form!",
+        "image": "Images/yuji.webp"
+       },
+       {
+        "type": "Trafalgar Law (Figure)", 
+        "price": "$38.99",
+        "description": "Trafalgar Law is in store, and he’s ready to bring everyone to shambles!",
+        "image": "Images/law2.jpeg"
+       },
+       {
+        "type": "Luck Voltia Funko Pop", 
+        "price": "$15.99",
+        "description": "The smiling demon of the clover kingdom is ready to shock and electrify! Pick up your Luck today!",
+        "image": "Images/luck.webp"
+       },
+       {
+        "type": "Luffy KOTP (Figure)", 
+        "price": "$41.99",
+        "description": "The king of the pirates is finally in stock after a long awaited delay! Grabs yours as soon as possible!",
+        "image": "Images/luffy.jpeg"
+       },
+       {
+        "type": "Rimiru (Figure)", 
+        "price": "$49.99",
+        "description": "The king of the slimes, and the land almost is finally here to take home! Don’t miss out!",
+        "image": "Images/rimuru.jpeg"
+       }
+    ]
